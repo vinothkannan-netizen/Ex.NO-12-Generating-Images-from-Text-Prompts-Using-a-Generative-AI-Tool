@@ -6,7 +6,7 @@ Text-to-image generative AI tools convert a written description (a “prompt”)
 TOOLS REQUIRED
 •	A free text-to-image AI tool - Bing Image Creator / Microsoft Designer, Adobe Firefly, Canva AI, or DALL·E inside ChatGPT
 •	Web browser
-•	A Microsoft or Google account, to sign in to the chosen tool
+•	A Microsoft or Google account, to sign in to the chosen tool 
 ## PROCEDURE
 ## Step 1: Understanding Text-to-Image Generative AI
 Before generating an image, understand that the AI is not searching for an existing picture — it is creating a new one pixel by pixel based on patterns it learned during training, guided entirely by the words in the prompt.
