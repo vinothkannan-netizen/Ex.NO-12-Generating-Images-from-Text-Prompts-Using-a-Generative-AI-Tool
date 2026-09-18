@@ -34,4 +34,7 @@ A set of AI-generated images produced from a written prompt, refined across two 
 Thus, text-to-image generative AI was successfully explored by writing, testing, and refining prompts, and a final AI-generated image was produced and saved.
 ## CONCLUSION
 In conclusion, text-to-image generative AI shows how descriptive language can be directly converted into visual content, and that prompt wording — subject, style, and detail — has a major effect on the result. This makes prompt refinement, not technical skill, the key ability needed to use such tools effectively and responsibly.
+<img width="1536" height="1024" alt="495F386F-973E-408D-B9F5-DDBD01D0AB38" src="https://github.com/user-attachments/assets/c7c8aac1-4199-412a-8e50-99c04f3d3b6f" />
+
+
 
